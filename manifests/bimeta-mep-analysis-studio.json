@@ -1,0 +1,11 @@
+{
+  "product_id": "bimeta-mep-analysis-studio",
+  "channel": "stable",
+  "latest_version": "1.1.0",
+  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/bimeta-mep-analysis-studio-v1.1.0/BIMeta_MEP_Analysis_Studio_Setup_1.4.1_x64.exe",
+  "sha256": "62f7bec4a7541cf4503ff08e8ffc97b4c7e481ae349178047ce652a2bbcceab6",
+  "authenticode_required": true,
+  "mandatory": false,
+  "release_notes": "This is just a formal test",
+  "published_at": "2026-08-11T05:22:49.098375+00:00"
+}
