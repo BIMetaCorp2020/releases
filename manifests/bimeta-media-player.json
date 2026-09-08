@@ -1,11 +1,11 @@
 {
   "product_id": "bimeta-media-player",
   "channel": "stable",
-  "latest_version": "2.11.0",
-  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/media-player-v2.11.0/BIMeta-MediaPlayer-Setup-2.11.0.exe",
-  "sha256": "c9882d0b98d53e4a79f14ad78f307de57e8aabfa691dcde0ab6612ad0213d062",
+  "latest_version": "2.12.0",
+  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/media-player-v2.12.0/BIMeta-MediaPlayer-Setup-2.12.0.exe",
+  "sha256": "bd0ee827abaf5a8603fbfc5aac2857c638446d53dcea3bb9a049d9c7147149d3",
   "authenticode_required": false,
   "mandatory": false,
-  "release_notes": "Auto-update, named playlists, daily mixes, web remote, library doctor, ListenBrainz scrobbling, and BIMeta Music sync.",
-  "published_at": "2026-09-04T00:00:00+00:00"
+  "release_notes": "The party update: guest requests, karaoke night, Wrapped, Discord presence, radio host, song radio, streaming hub (Spotify/Amazon/Pandora), AI moods, and much more.",
+  "published_at": "2026-09-08T00:00:00+00:00"
 }
