@@ -1,11 +1,11 @@
 {
   "product_id": "bimeta-media-player",
   "channel": "stable",
-  "latest_version": "2.12.2",
-  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/media-player-v2.12.2/BIMeta-MediaPlayer-Setup-2.12.2.exe",
-  "sha256": "cf40332e59994d1249d69b8137cc8fd3da2df7a8a8ce357c340636c3a0e60993",
+  "latest_version": "2.13.0",
+  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/media-player-v2.13.0/BIMeta-MediaPlayer-Setup-2.13.0.exe",
+  "sha256": "5c125d1a3be8dfad5844bba8bfee5d4632b5f438da58c685d03400baafd56192",
   "authenticode_required": false,
   "mandatory": false,
-  "release_notes": "Fixes automatic sign-in to BIMeta Music in the Online tab; the BIMeta chip re-runs sign-in on demand.",
+  "release_notes": "Upload your library to BIMeta Music under your own account (right-click tracks); includes the Online-tab sign-in fix.",
   "published_at": "2026-09-08T00:00:00+00:00"
 }
