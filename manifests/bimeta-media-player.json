@@ -1,11 +1,11 @@
 {
   "product_id": "bimeta-media-player",
   "channel": "stable",
-  "latest_version": "2.13.3",
-  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/media-player-v2.13.3/BIMeta-MediaPlayer-Setup-2.13.3.exe",
-  "sha256": "3b74a6189974f3053e38bea9d032fd73395b236670cb30028f9b47bab189148b",
+  "latest_version": "2.14.0",
+  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/media-player-v2.14.0/BIMeta-MediaPlayer-Setup-2.14.0.exe",
+  "sha256": "e130beb465aa6f105bede1aa05441a86e1d23ee8e72a0e3fec76b0daf049f67e",
   "authenticode_required": false,
   "mandatory": false,
-  "release_notes": "Fixes BIMeta Music sign-in and uploads (API responses were HTML due to a missing header); adds a signing-in overlay to the Online tab.",
+  "release_notes": "Passwordless BIMeta Music upload and sync through your signed-in Online tab (SSO). No password needed.",
   "published_at": "2026-09-08T00:00:00+00:00"
 }
