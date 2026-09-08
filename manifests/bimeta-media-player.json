@@ -1,11 +1,11 @@
 {
   "product_id": "bimeta-media-player",
   "channel": "stable",
-  "latest_version": "2.14.1",
-  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/media-player-v2.14.1/BIMeta-MediaPlayer-Setup-2.14.1.exe",
-  "sha256": "f5c5139fe9bd2bda055cf24c9ae08759d292345b4df3a824edc47cb6426423f1",
+  "latest_version": "2.14.2",
+  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/media-player-v2.14.2/BIMeta-MediaPlayer-Setup-2.14.2.exe",
+  "sha256": "f3d0579b2ba5faf9b3681dbecad879e4b1409eebce3ed07b52509a17017d4097",
   "authenticode_required": false,
   "mandatory": false,
-  "release_notes": "Fixes the file upload transfer format to BIMeta Music.",
+  "release_notes": "Uploads use resumable chunked (TUS) transfer so large files upload past the server's size limit.",
   "published_at": "2026-09-08T00:00:00+00:00"
 }
