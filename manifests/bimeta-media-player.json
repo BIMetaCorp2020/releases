@@ -1,0 +1,11 @@
+{
+  "product_id": "bimeta-media-player",
+  "channel": "stable",
+  "latest_version": "2.11.0",
+  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/media-player-v2.11.0/BIMeta-MediaPlayer-Setup-2.11.0.exe",
+  "sha256": "c9882d0b98d53e4a79f14ad78f307de57e8aabfa691dcde0ab6612ad0213d062",
+  "authenticode_required": false,
+  "mandatory": false,
+  "release_notes": "Auto-update, named playlists, daily mixes, web remote, library doctor, ListenBrainz scrobbling, and BIMeta Music sync.",
+  "published_at": "2026-09-04T00:00:00+00:00"
+}
