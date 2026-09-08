@@ -1,11 +1,11 @@
 {
   "product_id": "bimeta-media-player",
   "channel": "stable",
-  "latest_version": "2.15.0",
-  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/media-player-v2.15.0/BIMeta-MediaPlayer-Setup-2.15.0.exe",
-  "sha256": "d444f5e86263d778fc9645adb7e29b1ba38027e5698ef542264f6efcdad573c0",
+  "latest_version": "2.16.0",
+  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/media-player-v2.16.0/BIMeta-MediaPlayer-Setup-2.16.0.exe",
+  "sha256": "065680ea6423b01f4c3a9e7cb45850186b2ca56c6f8fcfb2c45ac0a9ca0ff510",
   "authenticode_required": false,
   "mandatory": false,
-  "release_notes": "Upload to BIMeta Music from albums, artists, genres, the queue, detail pages, and saved playlists.",
+  "release_notes": "Uploads to BIMeta Music are private (visible only to you and admins).",
   "published_at": "2026-09-08T00:00:00+00:00"
 }
