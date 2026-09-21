@@ -1,0 +1,11 @@
+{
+  "product_id": "bimeta-revit",
+  "channel": "stable",
+  "latest_version": "1.0.2",
+  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/bimeta-revit-v1.0.2/BIMeta-for-Revit-1.0.2-x64.msi",
+  "sha256": "056a1b4c3b8a5e76f7e574148e93f0e5a65fc3d0a1c249b4062e9ea7ecbe41b4",
+  "authenticode_required": true,
+  "mandatory": false,
+  "release_notes": "First release with the 7-day connectivity check and in-app update prompt. Adds Manage Links crash workaround for Revit 2025+, MEP Tool Palette fixes and search, multi-year installer (Revit 2020-2027).",
+  "published_at": "2026-09-21T04:39:16.354480+00:00"
+}
