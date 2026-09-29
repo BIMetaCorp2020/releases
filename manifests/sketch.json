@@ -1,11 +1,11 @@
 {
-  "product_id": "sketch",
-  "authenticode_required": true,
-  "published_at": "2026-09-29T00:26:50+00:00",
+  "published_at": "2026-09-29T17:32:20-07:00",
   "mandatory": false,
+  "release_notes": "1,586 materials with real optical properties - 304 glazing types by tint, coating and thickness, 194 metals by alloy and finish, plus paints, polymers, liquids, stone, ceramics and cloth. The material library is now a searchable browser inside the Materials panel instead of a separate window. The interface has been restructured: seven menus instead of nine, a tool rail down the left that can be moved to any edge, and the measurement input at the bottom left. Adds Reset Panel Layout.",
+  "product_id": "sketch",
+  "latest_version": "1.2.5",
+  "sha256": "ca2d8bf77664980dc59366db348b8cce1816db2342761a9663f70c42212d3bb4",
   "channel": "stable",
-  "sha256": "c08c4e2956b64014466c8c20d7f9c1164a4b478f8ef96ac264e1edc372586d5a",
-  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.2.0/BIMetaFormSetup_1.2.0_x64.exe",
-  "latest_version": "1.2.0",
-  "release_notes": "First signed release - Windows names the publisher instead of warning. Adds the Opening tool (cut a hole through a wall) and Move Lights (drag a fitting instead of typing coordinates), progressive JPEG and normal maps, and direct sampling of glowing materials. Fixes a second opening putting a face back into the first, and includes the full 497-texture library - 1.1.0 shipped 26 of them."
+  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.2.5/BIMetaFormSetup_1.2.5_x64.exe",
+  "authenticode_required": true
 }
