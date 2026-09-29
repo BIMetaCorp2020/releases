@@ -1,11 +1,11 @@
 {
-  "published_at": "2026-09-29T17:32:20-07:00",
-  "mandatory": false,
-  "release_notes": "1,586 materials with real optical properties - 304 glazing types by tint, coating and thickness, 194 metals by alloy and finish, plus paints, polymers, liquids, stone, ceramics and cloth. The material library is now a searchable browser inside the Materials panel instead of a separate window. The interface has been restructured: seven menus instead of nine, a tool rail down the left that can be moved to any edge, and the measurement input at the bottom left. Adds Reset Panel Layout.",
-  "product_id": "sketch",
-  "latest_version": "1.2.5",
-  "sha256": "ca2d8bf77664980dc59366db348b8cce1816db2342761a9663f70c42212d3bb4",
-  "channel": "stable",
-  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.2.5/BIMetaFormSetup_1.2.5_x64.exe",
-  "authenticode_required": true
+    "published_at":  "2026-09-29T19:56:44-07:00",
+    "mandatory":  false,
+    "release_notes":  "Adds an Assistant panel: ask about the model in English, review it for duplicate faces, slivers and open edges, and search the 1,586-material library by description. The render dialog gains a Describe the lighting box, and overcast is now a real setting rather than haze. The review, the material search and the lighting briefs need no AI service at all. Runs against Anthropic or a local Ollama, chosen in Preferences; editing is off by default. The tool rail can now be dragged to any edge by its grip.",
+    "product_id":  "sketch",
+    "latest_version":  "1.3.0",
+    "sha256":  "411485c6ee081612bd1a97f2ed503bfb425232af0cdea54b4fa5beefe2048b22",
+    "channel":  "stable",
+    "download_url":  "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.3.0/BIMetaFormSetup_1.3.0_x64.exe",
+    "authenticode_required":  true
 }
