@@ -7,5 +7,5 @@
   "sha256": "c08c4e2956b64014466c8c20d7f9c1164a4b478f8ef96ac264e1edc372586d5a",
   "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.2.0/BIMetaFormSetup_1.2.0_x64.exe",
   "latest_version": "1.2.0",
-  "release_notes": "BIMeta Form 1.2.0."
+  "release_notes": "First signed release - Windows names the publisher instead of warning. Adds the Opening tool (cut a hole through a wall) and Move Lights (drag a fitting instead of typing coordinates), progressive JPEG and normal maps, and direct sampling of glowing materials. Fixes a second opening putting a face back into the first, and includes the full 497-texture library - 1.1.0 shipped 26 of them."
 }
