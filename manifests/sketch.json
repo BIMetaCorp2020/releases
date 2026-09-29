@@ -1,0 +1,11 @@
+{
+  "product_id": "sketch",
+  "authenticode_required": true,
+  "published_at": "2026-09-29T00:26:50+00:00",
+  "mandatory": false,
+  "channel": "stable",
+  "sha256": "c08c4e2956b64014466c8c20d7f9c1164a4b478f8ef96ac264e1edc372586d5a",
+  "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.2.0/BIMetaFormSetup_1.2.0_x64.exe",
+  "latest_version": "1.2.0",
+  "release_notes": "BIMeta Form 1.2.0."
+}
