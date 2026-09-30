@@ -1,11 +1,11 @@
 {
-    "published_at":  "2026-09-29T19:56:44-07:00",
+    "published_at":  "2026-09-30T16:51:54-07:00",
     "mandatory":  false,
-    "release_notes":  "Adds an Assistant panel: ask about the model in English, review it for duplicate faces, slivers and open edges, and search the 1,586-material library by description. The render dialog gains a Describe the lighting box, and overcast is now a real setting rather than haze. The review, the material search and the lighting briefs need no AI service at all. Runs against Anthropic or a local Ollama, chosen in Preferences; editing is off by default. The tool rail can now be dragged to any edge by its grip.",
+    "release_notes":  "The sky was several times brighter than it should have been - a clear sky was supplying 104,000 lux on a horizontal surface against a real 15,000-20,000 - which left the sun dimmer than the sky and every render looking flat. Renders now have lens glare, the faint halo a real lens puts around anything bright, on a slider under Lens. Pixel sampling is stratified, which is about four per cent less noise for no extra time. The model viewport no longer shrinks after visiting the Render tab. Nova can finish a render with Gemini or OpenAI, off by default.",
     "product_id":  "sketch",
-    "latest_version":  "1.3.0",
-    "sha256":  "411485c6ee081612bd1a97f2ed503bfb425232af0cdea54b4fa5beefe2048b22",
+    "latest_version":  "1.3.4",
+    "sha256":  "5dea05b172189feb85b205e2a5375f5eb74c6b13f4a3b40faf61eb4199de0c79",
     "channel":  "stable",
-    "download_url":  "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.3.0/BIMetaFormSetup_1.3.0_x64.exe",
+    "download_url":  "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.3.4/BIMetaFormSetup_1.3.4_x64.exe",
     "authenticode_required":  true
 }
