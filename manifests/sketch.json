@@ -1,11 +1,11 @@
 {
-    "published_at":  "2026-09-30T16:51:54-07:00",
-    "mandatory":  false,
-    "release_notes":  "The sky was several times brighter than it should have been - a clear sky was supplying 104,000 lux on a horizontal surface against a real 15,000-20,000 - which left the sun dimmer than the sky and every render looking flat. Renders now have lens glare, the faint halo a real lens puts around anything bright, on a slider under Lens. Pixel sampling is stratified, which is about four per cent less noise for no extra time. The model viewport no longer shrinks after visiting the Render tab. Nova can finish a render with Gemini or OpenAI, off by default.",
-    "product_id":  "sketch",
-    "latest_version":  "1.3.4",
-    "sha256":  "5dea05b172189feb85b205e2a5375f5eb74c6b13f4a3b40faf61eb4199de0c79",
-    "channel":  "stable",
-    "download_url":  "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.3.4/BIMetaFormSetup_1.3.4_x64.exe",
-    "authenticode_required":  true
+    "published_at": "2026-10-27T17:56:29Z",
+    "mandatory": false,
+    "release_notes": "Adds Help > BIMeta Account with sign out. Fixes a startup gate that could permanently refuse to open the app despite a working connection, and an uninstall that left the program folder behind. SketchUp import runs in the background with progress and cancel; textures and tile sizes come from the file; materials can be clicked or dragged onto geometry.",
+    "product_id": "sketch",
+    "latest_version": "1.4.0",
+    "sha256": "22555c3a179527f1385547077c85038679aa225b2d54e3562193d7c9f6ae92cc",
+    "channel": "stable",
+    "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.4.0/BIMetaFormSetup_1.4.0_x64.exe",
+    "authenticode_required": true
 }
