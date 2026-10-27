@@ -1,0 +1,11 @@
+{
+    "published_at":  "2026-10-27T19:37:05Z",
+    "mandatory":  false,
+    "release_notes":  "An animated splash screen at startup, and a Reinstall option in the uninstaller for when something is wrong rather than unwanted.",
+    "product_id":  "sketch",
+    "latest_version":  "1.4.3",
+    "sha256":  "a217d3d317236e1797fbcc91bfc84a1b2e13a9752208e0a51152f8acc337ed17",
+    "channel":  "stable",
+    "download_url":  "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.4.3/BIMetaFormSetup_1.4.3_x64.exe",
+    "authenticode_required":  true
+}
