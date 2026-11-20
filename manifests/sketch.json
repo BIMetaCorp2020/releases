@@ -1,11 +1,11 @@
 {
-    "published_at": "2026-11-20T01:42:25Z",
+    "published_at": "2026-11-20T02:13:34Z",
     "mandatory": false,
-    "release_notes": "Signing in now goes through BIMeta's own identity provider in your normal browser, so BIMeta Form never sees your password. Sign out is in Help > BIMeta Account.",
+    "release_notes": "BIMeta Layout now asks you to sign in the same way the modeller does. Signing in once covers both.",
     "product_id": "sketch",
-    "latest_version": "1.5.0",
-    "sha256": "160baee228a800cf54f80b35b6cc3ae36c4ba2787649b5be84dac09fe338e7d3",
+    "latest_version": "1.5.1",
+    "sha256": "c368714e8d3cda42988ad18fbd852b371280622f907c3c4444f13f32570edc25",
     "channel": "stable",
-    "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.5.0/BIMetaFormSetup_1.5.0_x64.exe",
+    "download_url": "https://github.com/BIMetaCorp2020/releases/releases/download/form-v1.5.1/BIMetaFormSetup_1.5.1_x64.exe",
     "authenticode_required": true
 }
